@@ -31,7 +31,8 @@ Carrefour Kenya has partnered with Data Consults Ltd. to launch a marketing stra
 
 <!-- PROJECT DESCRIPTION -->
 ## Project Description
-![84ac704079146 5601d186966c1](https://user-images.githubusercontent.com/98313549/173053989-14acf27e-4fac-4ee9-91c0-eed5176206c1.jpg)
+![DSC_0313](https://user-images.githubusercontent.com/98313549/173247241-762563ed-1d29-434e-83fa-3e567361f1d9.JPG)
+
 
 Strategy is an essential part of any effective business plan. By using an effective competitive strategy, a company finds its industry niche and learns about its customers. Competition is a key feature in any vibrant economy. Competition is critical to success or failure of a supermarket. Therefore, retail stores(supermarkets) have to adopt to the most efficient marketing strategies to remain relevant.
 
@@ -53,13 +54,18 @@ Strategy is an essential part of any effective business plan. By using an effect
 <!-- SUCCESS CRITERIA-->
 ### Success Criteria
 
- Ability to identify individuals that click on ads.
+ Ability to reduce dimensions via PCA and feature selection.
+ Abilty to create association rules for items sold in the Supermarket.
+ Identify anomalies in sales.
+ 
 
 
 <!-- DATASET -->
 ### Datasets
 http://bit.ly/CarreFourDataset
+
 http://bit.ly/SupermarketDatasetII
+
 http://bit.ly/CarreFourSalesDataset
 
 <!-- TECHNOLOGIES USED -->
